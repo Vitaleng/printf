@@ -6,6 +6,7 @@
 
 #define UNUSED(x) (void)(x)
 #define BUFF_SIZE 1024
+#define main
 
 /* FLAGS */
 #define F_MINUS 1
